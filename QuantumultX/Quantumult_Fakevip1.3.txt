@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hipacket/QX/master/Config/hostsVN-quantumult-r
 
 
 [rewrite_remote]
-https://raw.githubusercontent.com/hipacket/QX/master/QuantumultX/Fake_Vip.txt, tag=FakeVIP_COPY, enabled=true
+https://raw.githubusercontent.com/hipacket/QX/master/QuantumultX/Local_script.txt, tag=FakeVIP_COPY, enabled=true
 https://raw.githubusercontent.com/hipacket/QX/master/Config/hostsVN-quantumultX-rewrite.conf, tag=HostVn, enabled=true
 
 [rewrite_local]
